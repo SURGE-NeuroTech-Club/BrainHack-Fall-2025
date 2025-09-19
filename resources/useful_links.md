@@ -2,6 +2,7 @@
 
 ## General Learning Materials
 - **[AwesomeBCI Resources](https://github.com/NeuroTechX/awesome-bci)** - A really great compilation of BCI links/resources
+- **[Link to the previous year submissions](https://github.com/SURGE-NeuroTech-Club/Neurohack-2025)** - Check out what past teams have built! 
 
 
 ## Tools and Software
