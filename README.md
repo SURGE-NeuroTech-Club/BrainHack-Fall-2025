@@ -44,7 +44,7 @@ Welcome to the **SURGE BrainHACK 2025**, where you'll get hands-on experience de
 
 ## Rules:
 1. You are free to use any hardware or software tools you like, but we recommend using the resources provided in this repository.
-2. You may work in teams of up to 5 people. Individual submissions are also allowed.
+2. You may work in teams of up to 4 people. Individual submissions are also allowed.
 3. All work must be done during the hackathon period (Friday to Sunday).
 4. You must submit your project by the deadline to be eligible for judging.
 5. You are allowed to - even encouraged to use AI tools (e.g., ChatGPT, GitHub Copilot) to assist with coding, brainstorming, and problem-solving. **However, it is your responsibility to ensure that you understand and can explain all of your work!**
@@ -65,7 +65,7 @@ We have **two challenge tracks** you can choose from:
 
 ### Real-Time BCI Deliverables
 
-- **Project Presentation** (8 minutes max.) - See the [rubric for details.](./resources/judging_rubrics.md#brain-controlled-applications-real-time-bci-stream) A general template for your presentation should include:
+- **Project Presentation** (12 minutes max.) - See the [rubric for details.](./resources/judging_rubrics.md#brain-controlled-applications-real-time-bci-stream) A general template for your presentation should include:
   -  Problem Statement & Motivation  
   - System Design & Implementation 
   - A live Demonstration (or a pre-recorded demo if real-time is not possible)  
@@ -83,7 +83,7 @@ We have **two challenge tracks** you can choose from:
 
 ### Offline EEG Data/ML Deliverables
 
-- **Project Presentation** (8 minutes max.) - see the [rubric for details.](./resources/judging_rubrics.md#offline-eeg-data-analysis--machine-learning-stream) A general template for your presentation should include:
+- **Project Presentation** (12 minutes max.) - see the [rubric for details.](./resources/judging_rubrics.md#offline-eeg-data-analysis--machine-learning-stream) A general template for your presentation should include:
   - Problem Statement & Motivation  
   - What you did with the data (preprocessing, analysis, modeling) 
   - Results & Interpretation (accuracy, feature importance, visualization of findings, etc.)  
