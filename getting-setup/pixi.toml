@@ -1,0 +1,18 @@
+[workspace]
+authors = ["Max Mascini <mascini.max@dal.ca>"]
+channels = ["conda-forge"]
+name = "BrainHack-Fall-2025"
+platforms = ["win-64", "osx-arm64", "osx-64", "linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.10,<3.12"
+scipy = ">=1.16.2,<2"
+jupyterlab = ">=4.4.7,<5"
+mne = ">=1.10.1,<2"
+pyserial = ">=3.5,<4"
+
+[pypi-dependencies]
+brainflow = ">=5.18.1, <6"
