@@ -10,6 +10,7 @@ Welcome to the **SURGE BrainHACK 2025**, where you'll get hands-on experience de
 - [🧠 Welcome to the Fall 2025 SURGE BrainHACK!](#-welcome-to-the-fall-2025-surge-brainhack)
   - [Table of Contents](#table-of-contents)
 - [General Information:](#general-information)
+  - [Support \& Collaboration](#support--collaboration)
   - [Hackathon Schedule](#hackathon-schedule)
   - [Rules:](#rules)
 - [🏆 Challenge Streams](#-challenge-streams)
@@ -33,6 +34,11 @@ Welcome to the **SURGE BrainHACK 2025**, where you'll get hands-on experience de
 
 ---
 # General Information:
+
+## Support & Collaboration
+- Join the **#brainhack-Fall-2025** channel on the [SURGE Discord server](https://discord.gg/WKTet49nE5) to ask questions, share ideas, and collaborate with other participants.
+- Refer back to the [introduction presentation](https://docs.google.com/presentation/d/1Kv9ZSb0_6BqbbZlZWzYRzQ__WZipsEUCZKcd4CUvxyY/edit?usp=sharing)
+- Reach out directly to me at [mascini.max@dal.ca](mailto:mascini.max@dal.ca)! (Please keep in mind I may be busy helping other teams, so I may not respond immediately)
 
 ## Hackathon Schedule
 
