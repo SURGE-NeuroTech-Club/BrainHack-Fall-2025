@@ -1,3 +1,12 @@
+# The SURGE BrainHACK Fall 2025 Has Concluded!
+
+## 🏆 Congratulations to the Winners!
+You can each teams submissions `submissions/` folder.
+
+
+
+**🎉 A huge shoutout to all participants! Every project showcased incredible creativity and problem-solving skills. We hope to see you at the next SURGE BrainHACK!**
+
 # 🧠 Welcome to the Fall 2025 SURGE BrainHACK!
 
 Welcome to the **SURGE BrainHACK 2025**, where you'll get hands-on experience developing Brain-Computer Interfaces (BCIs) and analyzing neural data. Over the course of this weekend, you'll work in teams to prototype applications using EEG data. 
@@ -7,6 +16,8 @@ Welcome to the **SURGE BrainHACK 2025**, where you'll get hands-on experience de
 
 ## Table of Contents
 
+- [The SURGE BrainHACK Fall 2025 Has Concluded!](#the-surge-brainhack-fall-2025-has-concluded)
+  - [🏆 Congratulations to the Winners!](#-congratulations-to-the-winners)
 - [🧠 Welcome to the Fall 2025 SURGE BrainHACK!](#-welcome-to-the-fall-2025-surge-brainhack)
   - [Table of Contents](#table-of-contents)
 - [General Information:](#general-information)
