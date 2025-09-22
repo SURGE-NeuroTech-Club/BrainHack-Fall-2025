@@ -1,9 +1,7 @@
 # The SURGE BrainHACK Fall 2025 Has Concluded!
 
 ## 🏆 Congratulations to the Winners!
-You can each teams submissions `submissions/` folder.
-
-
+You can each teams submissions `submissions/` folder
 
 **🎉 A huge shoutout to all participants! Every project showcased incredible creativity and problem-solving skills. We hope to see you at the next SURGE BrainHACK!**
 
