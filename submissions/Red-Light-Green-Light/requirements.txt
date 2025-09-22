@@ -1,0 +1,8 @@
+pygame>=2.5
+scipy 
+jupyterlab
+mne
+brainflow
+pyserial
+matplotlib 
+numpy
