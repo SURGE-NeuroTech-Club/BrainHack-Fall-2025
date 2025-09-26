@@ -1,7 +1,10 @@
 # The SURGE BrainHACK Fall 2025 Has Concluded!
 
-## 🏆 Congratulations to the Winners!
+## 🏆 Congratulations to the Winner - RedLightGreenLight!
 You can each teams submissions `submissions/` folder
+- [**Team RedLightGreenLight**](./submissions/Red-Light-Green-Light/)
+- [**Team Maze With Mind**](./submissions/Maze-With-Mind/)
+- [**Team NewStartUp**](./submissions/NewStartUp/)
 
 **🎉 A huge shoutout to all participants! Every project showcased incredible creativity and problem-solving skills. We hope to see you at the next SURGE BrainHACK!**
 
@@ -15,7 +18,7 @@ Welcome to the **SURGE BrainHACK 2025**, where you'll get hands-on experience de
 ## Table of Contents
 
 - [The SURGE BrainHACK Fall 2025 Has Concluded!](#the-surge-brainhack-fall-2025-has-concluded)
-  - [🏆 Congratulations to the Winners!](#-congratulations-to-the-winners)
+  - [🏆 Congratulations to the Winner - RedLightGreenLight!](#-congratulations-to-the-winner---redlightgreenlight)
 - [🧠 Welcome to the Fall 2025 SURGE BrainHACK!](#-welcome-to-the-fall-2025-surge-brainhack)
   - [Table of Contents](#table-of-contents)
 - [General Information:](#general-information)
