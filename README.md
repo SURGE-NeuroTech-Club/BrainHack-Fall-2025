@@ -8,6 +8,8 @@ You can each teams submissions `submissions/` folder
 
 **🎉 A huge shoutout to all participants! Every project showcased incredible creativity and problem-solving skills. We hope to see you at the next SURGE BrainHACK!**
 
+---
+
 # 🧠 Welcome to the Fall 2025 SURGE BrainHACK!
 
 Welcome to the **SURGE BrainHACK 2025**, where you'll get hands-on experience developing Brain-Computer Interfaces (BCIs) and analyzing neural data. Over the course of this weekend, you'll work in teams to prototype applications using EEG data. 
